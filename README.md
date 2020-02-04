@@ -4,5 +4,5 @@ Group leaders ONLY should fork this repo.  Team members should fork the team lea
 
 emma will do A-H
 Gianfi will do I-O
-Nathan and Aaron will do the rest.
+Nathan, jack and Aaron will do the rest.
 
