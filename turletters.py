@@ -191,6 +191,7 @@ def turtleLetter(letter,tur):
         tur.backward(80)
         tur.right(180)
         tur.penup()
+	tur.forward(20)
     elif letter == "J":
 	tur.pendown()
         tur.backward(40)
@@ -237,6 +238,7 @@ def turtleLetter(letter,tur):
         tur.forward(30)
         tur.penup()
     elif letter == "M":
+	tur.pd()
 	tur.right(90)
         tur.forward(40)
         tur.backward(40)
