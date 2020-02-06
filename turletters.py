@@ -155,7 +155,7 @@ def turtleLetter(letter,tur):
         tur.left(180)
         tur.fd(30)
         tur.left(90)
-        tur.fd(40)
+        tur.fd(50)
         tur.right(90)		
     elif letter == "H":
 	tur.pendown()
